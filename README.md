@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ferrorr
-- 👀 I’m interested in Computer Networks
+- 👀 I’m interested in Computer Network Automation
 - 🌱 I’m currently learning Neural networks in Python
 - 💞️ I’m looking to collaborate on any interesting project
 
